@@ -97,9 +97,11 @@ $page_url = isset($seo_url) ? $seo_url : 'https://reddyannabook.example.com';
     <!-- Header / Navbar -->
     <header class="header">
         <div class="container header-container">
-            <a href="<?php echo $base_path; ?>index.php" class="logo">
-                <img src="<?php echo $base_path; ?>assets/logo.png" alt="REDDY ANNA BOOK Logo" class="logo-img">
-            </a>
+            <div class="auth-buttons" style="display: flex; gap: 10px; align-items: center;">
+                <button class="mobile-menu-btn"><i class="fa-solid fa-bars"></i></button>
+                <a href="https://wa.me/917044211394" target="_blank" rel="noopener noreferrer" class="btn btn-secondary" style="padding: 10px 20px; font-size: 14px;">Login</a>
+                <a href="https://wa.me/917044211394" target="_blank" rel="noopener noreferrer" class="btn btn-primary glowing-btn" style="padding: 10px 20px; font-size: 14px;">Signup</a>
+            </div>
 
             <nav class="nav-menu">
                 <ul class="nav-links">
@@ -109,9 +111,8 @@ $page_url = isset($seo_url) ? $seo_url : 'https://reddyannabook.example.com';
                 </ul>
             </nav>
 
-            <div class="auth-buttons">
-                <a href="https://wa.me/917044211394" target="_blank" rel="noopener noreferrer" class="btn get-id-header-btn"><strong>GET REDDY</strong> <span>ANNA BOOK ID</span></a>
-                <button class="mobile-menu-btn"><i class="fa-solid fa-bars"></i></button>
-            </div>
+            <a href="<?php echo $base_path; ?>index.php" class="logo">
+                <img src="<?php echo $base_path; ?>assets/logo.png" alt="REDDY ANNA BOOK Logo" class="logo-img">
+            </a>
         </div>
     </header>
