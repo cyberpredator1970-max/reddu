@@ -99,7 +99,6 @@ $page_url = isset($seo_url) ? $seo_url : 'https://reddyannabook.example.com';
         <div class="container header-container">
             <a href="<?php echo $base_path; ?>index.php" class="logo">
                 <img src="<?php echo $base_path; ?>assets/logo.png" alt="REDDY ANNA BOOK Logo" class="logo-img">
-                <span class="logo-text">REDDY ANNA BOOK</span>
             </a>
 
             <nav class="nav-menu">
