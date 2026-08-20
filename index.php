@@ -1,6 +1,7 @@
 <?php
-$seo_title = 'REDDY ANNA BOOK - Official Site';
-$seo_desc = 'Join Reddy Anna Book, the best sports betting platform.';
+$seo_title = 'Reddy Anna Book & ID | Official Website';
+$seo_desc = 'Explore Reddy Anna Book information, account details, sports and casino content. Check the latest information on our official website.';
+$seo_keywords = 'reddy anna book, reddy anna id, official reddy anna website, sports betting, casino content';
 $seo_url = 'https://reddyannabook.example.com/';
 include 'header.php';
 ?>

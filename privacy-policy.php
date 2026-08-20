@@ -1,6 +1,6 @@
 <?php
-$seo_title = 'PRIVACY POLICY - Reddy Anna Book';
-$seo_desc = 'Read our privacy-policy for Reddy Anna Book.';
+$seo_title = 'Privacy Policy | Reddy Anna Book';
+$seo_desc = 'Read the official Privacy Policy for Reddy Anna Book. We are committed to data protection, secure transactions, and user confidentiality.';
 $seo_url = 'https://reddyannabook.example.com/privacy-policy.php';
 include 'header.php';
 ?>

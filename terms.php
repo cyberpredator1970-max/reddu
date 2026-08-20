@@ -1,6 +1,6 @@
 <?php
-$seo_title = 'TERMS - Reddy Anna Book';
-$seo_desc = 'Read our terms for Reddy Anna Book.';
+$seo_title = 'Terms & Conditions | Reddy Anna Book';
+$seo_desc = 'Review the Terms and Conditions of Reddy Anna Book. Understand our rules, account guidelines, and responsible gaming policies before playing.';
 $seo_url = 'https://reddyannabook.example.com/terms.php';
 include 'header.php';
 ?>

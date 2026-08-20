@@ -1,0 +1,32 @@
+<?php
+$seo_title = 'Contact Reddy Anna | 24/7 Support & Book ID';
+$seo_desc = 'Need help with your Reddy Anna ID? Contact our 24/7 customer support via WhatsApp for immediate assistance and secure account details.';
+$seo_keywords = 'contact reddy anna, reddy anna support, reddy anna book id contact, 24/7 whatsapp support';
+$seo_url = 'https://reddyannabook.example.com/contact.php';
+include 'header.php';
+?>
+
+<main class="main-content container" style="padding-top: 60px; min-height: 60vh;">
+    <div style="max-width: 800px; margin: 0 auto; text-align: center;">
+        <h1 class="gold-heading" style="font-size: 36px; margin-bottom: 20px;">Contact Us</h1>
+        <div style="color: #ccc; line-height: 1.8; font-size: 16px; background-color: #1a1514; padding: 40px; border-radius: 10px; border: 1px solid #333;">
+            <p style="margin-bottom: 20px;">We are here to help you 24/7. If you have any questions, concerns, or need assistance getting your Reddy Anna Book ID, please don't hesitate to reach out to us.</p>
+            
+            <div style="margin: 30px 0;">
+                <i class="fa-brands fa-whatsapp" style="font-size: 48px; color: #25D366; margin-bottom: 15px;"></i>
+                <h3 style="color: #fff; font-size: 24px; margin-bottom: 10px;">WhatsApp Support</h3>
+                <p style="font-size: 20px; font-weight: bold;">
+                    <a href="https://wa.me/917044211394" target="_blank" rel="noopener noreferrer" style="color: #f7b733; text-decoration: none;">+91 70442 11394</a>
+                </p>
+            </div>
+            
+            <p style="margin-top: 30px; font-size: 14px; color: #999;">Our customer support team is available round the clock to ensure you have a seamless betting experience.</p>
+            
+            <a href="https://wa.me/917044211394" target="_blank" rel="noopener noreferrer" class="cta-btn" style="display: inline-block; margin-top: 20px; padding: 15px 30px; background: linear-gradient(90deg, #f7b733 0%, #fc4a1a 100%); color: #fff; text-decoration: none; border-radius: 50px; font-weight: bold; font-size: 16px; transition: transform 0.3s ease;">
+                MESSAGE US ON WHATSAPP
+            </a>
+        </div>
+    </div>
+</main>
+
+<?php include 'footer.php'; ?>

@@ -64,6 +64,8 @@
             <div class="footer-col">
                 <h3>Quick Links</h3>
                 <ul>
+                    <li><a href="<?php echo isset($base_path) ? $base_path : ''; ?>index.php">Home</a></li>
+                    <li><a href="<?php echo isset($base_path) ? $base_path : ''; ?>contact.php">Contact Us</a></li>
                     <li><a href="<?php echo isset($base_path) ? $base_path : ''; ?>about.php">About Us</a></li>
                     <li><a href="<?php echo isset($base_path) ? $base_path : ''; ?>privacy-policy.php">Privacy Policy</a></li>
                     <li><a href="<?php echo isset($base_path) ? $base_path : ''; ?>terms.php">Terms & Conditions</a></li>

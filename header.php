@@ -13,10 +13,12 @@ if (!isset($base_path)) {
 // Default SEO values if not provided by the page
 $page_title = isset($seo_title) ? $seo_title : 'REDDY ANNA BOOK - Premium Sports & Casino Betting';
 $page_description = isset($seo_desc) ? $seo_desc : 'Join the ultimate sports and casino platform. Live odds, premium gaming, and instant betting access.';
+$page_keywords = isset($seo_keywords) ? $seo_keywords : 'reddy anna book, sports betting, casino betting, live odds, premium gaming, online betting';
 $page_url = isset($seo_url) ? $seo_url : 'https://reddyannabook.example.com';
 ?>
     <title><?php echo htmlspecialchars($page_title); ?></title>
     <meta name="description" content="<?php echo htmlspecialchars($page_description); ?>">
+    <meta name="keywords" content="<?php echo htmlspecialchars($page_keywords); ?>">
     <meta name="google-site-verification" content="o5LE6m1roBVTzrNvv43ziDZAJ8m2TUpL5XWoflNNtqg" />
     
     <!-- Open Graph / Facebook / WhatsApp -->

@@ -1,7 +1,7 @@
 <?php 
 $base_path = '../';
-$seo_title = 'Blog - Reddy Anna Book';
-$seo_desc = 'Latest betting tips and tricks.';
+$seo_title = 'Reddy Anna Blog | Sports & Casino Betting Tips';
+$seo_desc = 'Read the latest blog posts from Reddy Anna Book. Discover expert sports betting tips, live casino strategies, and official platform news.';
 $seo_url = 'https://reddyannabook.example.com/blog/';
 include '../header.php'; 
 ?>

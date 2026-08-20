@@ -1,6 +1,6 @@
 <?php
-$seo_title = 'ABOUT - Reddy Anna Book';
-$seo_desc = 'Read our about for Reddy Anna Book.';
+$seo_title = 'About Reddy Anna Book | Premium Sports Platform';
+$seo_desc = 'Learn about Reddy Anna Book, a trusted platform for sports and casino betting. Discover our mission for fair, responsible gaming experiences.';
 $seo_url = 'https://reddyannabook.example.com/about.php';
 include 'header.php';
 ?>
