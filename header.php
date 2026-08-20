@@ -122,7 +122,6 @@ $page_url = isset($seo_url) ? $seo_url : 'https://reddyannabook.example.com';
             <div class="auth-buttons" style="display: flex; gap: 10px; align-items: center;">
                 <a href="https://wa.me/917044211394" target="_blank" rel="noopener noreferrer" class="btn btn-secondary" style="padding: 10px 20px; font-size: 14px;">Login</a>
                 <a href="https://wa.me/917044211394" target="_blank" rel="noopener noreferrer" class="btn btn-primary glowing-btn" style="padding: 10px 20px; font-size: 14px;">Signup</a>
-                <button class="mobile-menu-btn"><i class="fa-solid fa-bars"></i></button>
             </div>
         </div>
     </header>
