@@ -138,17 +138,17 @@ include 'header.php';
     <section class="info-section">
         <div class="info-flex-container">
             <div class="info-text-content">
-                <h2 class="gold-heading">What Is Reddy Anna Book ID?</h2>
+                <h2 class="gold-heading">What Is Reddy Anna Book?</h2>
 
                 <p class="info-text">
-                    A <a href="https://reddyannaofficialss.com/" class="gold-text" style="text-decoration: none;"
-                        target="_blank">ReddyAnnaBook ID</a> acts as your digital key to access all betting
-                    and gaming features on the platform. Through your ID, you can place bets, deposit funds,
+                    <a href="https://reddyannaofficialss.com/" class="gold-text" style="text-decoration: none;"
+                        target="_blank">Reddy Anna Book</a> acts as your digital platform to access all betting
+                    and gaming features. Through it, you can place bets, deposit funds,
                     withdraw winnings, and explore exclusive bonus offers.
                 </p>
 
                 <p class="info-text">
-                    Verified IDs also ensure you play on a secure and legal platform. The verification process adds
+                    Verified accounts also ensure you play on a secure and legal platform. The verification process adds
                     an extra layer of trust, so every bettor can experience transparency, fair play, and complete
                     data protection while enjoying the action.
                 </p>
@@ -156,7 +156,7 @@ include 'header.php';
                 <div class="info-action">
                     <a href="https://wa.me/917044211394" target="_blank" rel="noopener noreferrer"
                         class="whatsapp-glow-btn">
-                        <i class="fa-brands fa-whatsapp"></i> Get Reddy Anna ID
+                        <i class="fa-brands fa-whatsapp"></i> Join Reddy Anna Book
                     </a>
                 </div>
             </div>
