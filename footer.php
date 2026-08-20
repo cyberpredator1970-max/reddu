@@ -110,7 +110,7 @@
     </footer>
 
     <!-- Script -->
-    <script src="<?php echo isset($base_path) ? $base_path : ''; ?>main.js"></script>
+    <script src="<?php echo isset($base_path) ? $base_path : ''; ?>main.js?v=<?php echo time(); ?>"></script>
 </body>
 
 </html>

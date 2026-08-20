@@ -42,7 +42,7 @@ $page_url = isset($seo_url) ? $seo_url : 'https://reddyannabook.example.com';
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="<?php echo $base_path; ?>style.css">
+    <link rel="stylesheet" href="<?php echo $base_path; ?>style.css?v=<?php echo time(); ?>">
     <!-- Favicon -->
     <link rel="icon" type="image/png" href="<?php echo $base_path; ?>assets/favicon.png">
 
@@ -107,6 +107,14 @@ $page_url = isset($seo_url) ? $seo_url : 'https://reddyannabook.example.com';
                 <ul class="nav-links">
                     <li><a href="<?php echo $base_path; ?>index.php" class="active"><i class="fa-solid fa-house"></i> Home</a></li>
                     <li><a href="<?php echo $base_path; ?>blog/index.php"><i class="fa-solid fa-blog"></i> Blog</a></li>
+                    <li class="dropdown-container">
+                        <a href="#"><i class="fa-solid fa-layer-group"></i> Platforms</a>
+                        <div class="dropdown-menu">
+                            <a href="<?php echo $base_path; ?>11xplay.php">11xplay</a>
+                            <a href="<?php echo $base_path; ?>laser247.php">Laser247</a>
+                            <a href="<?php echo $base_path; ?>cricbet99.php">Cricbet99</a>
+                        </div>
+                    </li>
                     <li><a href="https://wa.me/917044211394" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-headset"></i> Support</a></li>
                 </ul>
             </nav>

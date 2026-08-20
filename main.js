@@ -47,4 +47,22 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         });
     }
+
+    // Dropdown logic for Platforms menu
+    const dropdownLink = document.querySelector('.dropdown-container > a');
+    const dropdownMenu = document.querySelector('.dropdown-menu');
+
+    if (dropdownLink && dropdownMenu) {
+        dropdownLink.addEventListener('click', (e) => {
+            e.preventDefault();
+            dropdownMenu.classList.toggle('show');
+        });
+
+        // Close dropdown when clicking outside
+        document.addEventListener('click', (e) => {
+            if (!dropdownLink.contains(e.target) && !dropdownMenu.contains(e.target)) {
+                dropdownMenu.classList.remove('show');
+            }
+        });
+    }
 });
