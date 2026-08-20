@@ -9,7 +9,7 @@ include 'header.php';
 <main class="main-content container" style="padding-top: 40px; padding-bottom: 60px;">
     
     <div style="margin-bottom: 20px;">
-        <a href="<?php echo isset($base_path) ? $base_path : ''; ?>index.php" style="color: var(--primary-color); font-weight: 600; text-decoration: none;"><i class="fa-solid fa-arrow-left"></i> Back to Home</a>
+        <a href="/" style="color: var(--primary-color); font-weight: 600; text-decoration: none;"><i class="fa-solid fa-arrow-left"></i> Back to Home</a>
     </div>
 
     <div style="text-align: center; margin-bottom: 40px;">

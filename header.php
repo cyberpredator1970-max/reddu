@@ -99,13 +99,13 @@ $page_url = isset($seo_url) ? $seo_url : 'https://reddyannabook.example.com';
     <!-- Header / Navbar -->
     <header class="header">
         <div class="container header-container">
-            <a href="<?php echo $base_path; ?>index.php" class="logo">
+            <a href="/" class="logo">
                 <img src="<?php echo $base_path; ?>assets/logo.jpeg" alt="REDDY ANNA BOOK Logo" class="logo-img">
             </a>
 
             <nav class="nav-menu">
                 <ul class="nav-links">
-                    <li><a href="<?php echo $base_path; ?>index.php" class="active"><i class="fa-solid fa-house"></i> Home</a></li>
+                    <li><a href="/" class="active"><i class="fa-solid fa-house"></i> Home</a></li>
                     <li><a href="<?php echo $base_path; ?>blog/index.php"><i class="fa-solid fa-blog"></i> Blog</a></li>
                     <li class="dropdown-container">
                         <a href="#"><i class="fa-solid fa-layer-group"></i> Platforms</a>

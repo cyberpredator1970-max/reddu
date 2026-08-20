@@ -50,7 +50,7 @@
     <footer class="footer">
         <div class="container footer-grid">
             <div class="footer-col brand-col">
-                <a href="<?php echo isset($base_path) ? $base_path : ''; ?>index.php" class="logo">
+                <a href="/" class="logo">
                     <img src="<?php echo isset($base_path) ? $base_path : ''; ?>assets/logo.png" alt="REDDY ANNA BOOK Logo" class="logo-img">
                     <span class="logo-text">REDDY ANNA BOOK</span>
                 </a>
@@ -64,7 +64,7 @@
             <div class="footer-col">
                 <h3>Quick Links</h3>
                 <ul>
-                    <li><a href="<?php echo isset($base_path) ? $base_path : ''; ?>index.php">Home</a></li>
+                    <li><a href="/">Home</a></li>
                     <li><a href="<?php echo isset($base_path) ? $base_path : ''; ?>contact.php">Contact Us</a></li>
                     <li><a href="<?php echo isset($base_path) ? $base_path : ''; ?>about.php">About Us</a></li>
                     <li><a href="<?php echo isset($base_path) ? $base_path : ''; ?>privacy-policy.php">Privacy Policy</a></li>
