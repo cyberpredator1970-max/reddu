@@ -1,7 +1,7 @@
 <?php
 $seo_title = 'Contact Reddy Anna | 24/7 Support & Book ID';
 $seo_desc = 'Need help with your Reddy Anna ID? Contact our 24/7 customer support via WhatsApp for immediate assistance and secure account details.';
-$seo_keywords = 'contact reddy anna, reddy anna support, reddy anna book id contact, 24/7 whatsapp support';
+$seo_keywords = 'Reddy Anna Book, Reddy Anna, Reddyanna, Reddy Anna Login, Reddy Anna Book Login, Reddy Anna Club, Reddy Anna Betting, Reddy Anna Online Book Id, Reddy Anna ID, Reddy Anna Book ID, Reddy Anna Online Book, Reddy Anna Book Number, Anna Reddy Book, Reddy Anna Online Book Number, Reddy Anna Bookie, Reddybook.club, Reddy Anna Club, Reddy Anna Pro, Reddy Anna App, reddy anna online, ready anna, anna reddy, anna reddy book, reddy anna website, reddyanna book, reddy anna booking, reddyannaofficial, reddy anna contact number, Reddybook';
 $seo_url = 'https://reddyannabook.example.com/contact.php';
 include 'header.php';
 ?>

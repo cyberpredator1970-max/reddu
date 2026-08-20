@@ -1,7 +1,7 @@
 <?php
 $seo_title = 'Reddy Anna Book & ID | Official Website';
 $seo_desc = 'Explore Reddy Anna Book information, account details, sports and casino content. Check the latest information on our official website.';
-$seo_keywords = 'reddy anna book, reddy anna id, official reddy anna website, sports betting, casino content';
+$seo_keywords = 'Reddy Anna Book, Reddy Anna, Reddyanna, Reddy Anna Login, Reddy Anna Book Login, Reddy Anna Club, Reddy Anna Betting, Reddy Anna Online Book Id, Reddy Anna ID, Reddy Anna Book ID, Reddy Anna Online Book, Reddy Anna Book Number, Anna Reddy Book, Reddy Anna Online Book Number, Reddy Anna Bookie, Reddybook.club, Reddy Anna Club, Reddy Anna Pro, Reddy Anna App, reddy anna online, ready anna, anna reddy, anna reddy book, reddy anna website, reddyanna book, reddy anna booking, reddyannaofficial, reddy anna contact number, Reddybook';
 $seo_url = 'https://reddyannabook.example.com/';
 include 'header.php';
 ?>

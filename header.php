@@ -13,7 +13,7 @@ if (!isset($base_path)) {
 // Default SEO values if not provided by the page
 $page_title = isset($seo_title) ? $seo_title : 'REDDY ANNA BOOK - Premium Sports & Casino Betting';
 $page_description = isset($seo_desc) ? $seo_desc : 'Join the ultimate sports and casino platform. Live odds, premium gaming, and instant betting access.';
-$page_keywords = isset($seo_keywords) ? $seo_keywords : 'reddy anna book, sports betting, casino betting, live odds, premium gaming, online betting';
+$page_keywords = isset($seo_keywords) ? $seo_keywords : 'Reddy Anna Book, Reddy Anna, Reddyanna, Reddy Anna Login, Reddy Anna Book Login, Reddy Anna Club, Reddy Anna Betting, Reddy Anna Online Book Id, Reddy Anna ID, Reddy Anna Book ID, Reddy Anna Online Book, Reddy Anna Book Number, Anna Reddy Book, Reddy Anna Online Book Number, Reddy Anna Bookie, Reddybook.club, Reddy Anna Club, Reddy Anna Pro, Reddy Anna App, reddy anna online, ready anna, anna reddy, anna reddy book, reddy anna website, reddyanna book, reddy anna booking, reddyannaofficial, reddy anna contact number, Reddybook';
 $page_url = isset($seo_url) ? $seo_url : 'https://reddyannabook.example.com';
 ?>
     <title><?php echo htmlspecialchars($page_title); ?></title>
