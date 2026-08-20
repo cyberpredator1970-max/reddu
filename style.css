@@ -89,7 +89,7 @@ ul {
 }
 
 .logo-text {
-    font-size: 24px;
+    font-size: clamp(16px, 2.5vw, 24px);
     font-weight: 800;
     letter-spacing: 1px;
     background: linear-gradient(to right, #fff, #bbb);
@@ -297,7 +297,7 @@ ul {
 }
 
 .hero-title {
-    font-size: 56px;
+    font-size: clamp(32px, 5vw, 56px);
     line-height: 1.1;
     margin-bottom: 20px;
     font-weight: 800;
@@ -321,7 +321,7 @@ ul {
 }
 
 .section-title {
-    font-size: 28px;
+    font-size: clamp(24px, 3.5vw, 32px);
     margin-bottom: 30px;
     display: flex;
     align-items: center;
@@ -386,7 +386,7 @@ ul {
 }
 
 .gold-heading {
-    font-size: 36px;
+    font-size: clamp(26px, 4vw, 36px);
     margin-bottom: 25px;
     color: #fcb900;
 }
@@ -692,9 +692,34 @@ ul {
 
 /* Responsive */
 @media (max-width: 992px) {
-    .nav-links { display: none; }
-    .mobile-menu-btn { display: block; }
-    .hero-title { font-size: 40px; }
+    .header-container {
+        flex-wrap: wrap;
+        gap: 10px;
+        justify-content: space-between;
+    }
+    .nav-menu {
+        order: 3;
+        width: 100%;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        scrollbar-width: none; /* Firefox */
+        padding-bottom: 5px;
+    }
+    .nav-menu::-webkit-scrollbar {
+        display: none; /* Webkit */
+    }
+    .nav-links { 
+        display: flex;
+        justify-content: center;
+        gap: 15px;
+        min-width: max-content;
+        margin: 0 auto;
+    }
+    .nav-links a {
+        font-size: 14px;
+        padding: 6px 12px;
+    }
+    .mobile-menu-btn { display: none; }
     .footer-grid { grid-template-columns: 1fr; gap: 30px; }
     .casino-card-premium { flex-direction: column; text-align: center; padding: 30px; }
     .casino-graphic { position: static; transform: none; margin-top: 30px; height: 150px; }
@@ -1258,7 +1283,8 @@ ul {
 .home-live-matches {
     background: #111;
     border-radius: 8px;
-    overflow: hidden;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
     font-family: Arial, sans-serif;
 }
 
@@ -1292,6 +1318,7 @@ ul {
     font-size: 14px;
     font-weight: bold;
     text-align: center;
+    min-width: 500px;
 }
 
 .odds-match-row {
@@ -1300,6 +1327,7 @@ ul {
     border-bottom: 1px solid #ccc;
     padding: 5px;
     align-items: center;
+    min-width: 500px;
 }
 
 .odds-col-match { flex: 3; text-align: left; padding-left: 10px; display: flex; flex-direction: column; gap: 3px; }
@@ -1445,11 +1473,11 @@ img {
         padding: 0 15px;
     }
     
-    /* Typography scaling */
-    h1, .gold-heading { font-size: 28px !important; }
-    h2, .section-title { font-size: 24px !important; }
-    h3 { font-size: 20px !important; }
-    p { font-size: 15px !important; line-height: 1.5; }
+    /* Typography scaling (Removed static !important overrides to let clamp() handle this) */
+    
+    .info-flex-container {
+        gap: 30px;
+    }
     
     /* Touch targets (buttons) */
     .btn, button, a.blog-read-more {
