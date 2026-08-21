@@ -115,13 +115,13 @@ $page_url = isset($seo_url) ? $seo_url : 'https://reddyannabook.example.com';
                             <a href="<?php echo $base_path; ?>cricbet99.php">Cricbet99</a>
                         </div>
                     </li>
-                    <li><a href="https://wa.me/917044211394" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-headset"></i> Support</a></li>
+                    <li><a href="https://wa.link/reddy-808" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-headset"></i> Support</a></li>
                 </ul>
             </nav>
 
             <div class="auth-buttons">
-                <a href="https://wa.me/917044211394" target="_blank" rel="noopener noreferrer" class="btn btn-secondary">Login</a>
-                <a href="https://wa.me/917044211394" target="_blank" rel="noopener noreferrer" class="btn btn-primary glowing-btn">Signup</a>
+                <a href="https://wa.link/reddy-808" target="_blank" rel="noopener noreferrer" class="btn btn-secondary">Login</a>
+                <a href="https://wa.link/reddy-808" target="_blank" rel="noopener noreferrer" class="btn btn-primary glowing-btn">Signup</a>
             </div>
         </div>
     </header>

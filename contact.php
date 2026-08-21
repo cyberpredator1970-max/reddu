@@ -16,13 +16,13 @@ include 'header.php';
                 <i class="fa-brands fa-whatsapp" style="font-size: 48px; color: #25D366; margin-bottom: 15px;"></i>
                 <h3 style="color: #fff; font-size: 24px; margin-bottom: 10px;">WhatsApp Support</h3>
                 <p style="font-size: 20px; font-weight: bold;">
-                    <a href="https://wa.me/917044211394" target="_blank" rel="noopener noreferrer" style="color: #f7b733; text-decoration: none;">+91 70442 11394</a>
+                    <a href="https://wa.link/reddy-808" target="_blank" rel="noopener noreferrer" style="color: #f7b733; text-decoration: none;">+91 70442 11394</a>
                 </p>
             </div>
             
             <p style="margin-top: 30px; font-size: 14px; color: #999;">Our customer support team is available round the clock to ensure you have a seamless betting experience.</p>
             
-            <a href="https://wa.me/917044211394" target="_blank" rel="noopener noreferrer" class="cta-btn" style="display: inline-block; margin-top: 20px; padding: 15px 30px; background: linear-gradient(90deg, #f7b733 0%, #fc4a1a 100%); color: #fff; text-decoration: none; border-radius: 50px; font-weight: bold; font-size: 16px; transition: transform 0.3s ease;">
+            <a href="https://wa.link/reddy-808" target="_blank" rel="noopener noreferrer" class="cta-btn" style="display: inline-block; margin-top: 20px; padding: 15px 30px; background: linear-gradient(90deg, #f7b733 0%, #fc4a1a 100%); color: #fff; text-decoration: none; border-radius: 50px; font-weight: bold; font-size: 16px; transition: transform 0.3s ease;">
                 MESSAGE US ON WHATSAPP
             </a>
         </div>

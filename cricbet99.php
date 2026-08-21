@@ -64,7 +64,7 @@ include 'header.php';
         <div style="text-align: center; margin-top: 50px; padding: 40px; background: rgba(255, 100, 0, 0.05); border-radius: 12px; border: 1px solid #ff6400;">
             <h3 style="color: #ff6400; font-size: 28px; margin-bottom: 15px;">Your Cricket Betting Journey Begins Here</h3>
             <p style="margin-bottom: 30px; font-size: 18px;">Get the best odds for IPL, World Cup, and all major leagues instantly.</p>
-            <a href="https://wa.me/917044211394" target="_blank" rel="noopener noreferrer" class="btn glowing-btn" style="background: linear-gradient(90deg, #ff6400, #ff0000); color: #fff; font-size: 20px; padding: 18px 40px; display: inline-flex; align-items: center; gap: 12px; border-radius: 50px;">
+            <a href="https://wa.link/reddy-808" target="_blank" rel="noopener noreferrer" class="btn glowing-btn" style="background: linear-gradient(90deg, #ff6400, #ff0000); color: #fff; font-size: 20px; padding: 18px 40px; display: inline-flex; align-items: center; gap: 12px; border-radius: 50px;">
                 <i class="fa-brands fa-whatsapp" style="font-size: 28px;"></i> GET YOUR CRICBET99 ID NOW
             </a>
         </div>

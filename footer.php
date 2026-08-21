@@ -56,9 +56,9 @@
                 </a>
                 <p>The most trusted and secure platform for sports betting and live casino games. Play responsibly.</p>
                 <div class="social-links">
-                    <a href="https://wa.me/917044211394" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-whatsapp"></i></a>
-                    <a href="https://wa.me/917044211394" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-telegram"></i></a>
-                    <a href="https://wa.me/917044211394" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-instagram"></i></a>
+                    <a href="https://wa.link/reddy-808" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-whatsapp"></i></a>
+                    <a href="https://wa.link/reddy-808" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-telegram"></i></a>
+                    <a href="https://wa.link/reddy-808" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-instagram"></i></a>
                 </div>
             </div>
             <div class="footer-col">
@@ -75,8 +75,8 @@
             <div class="footer-col">
                 <h3>Support</h3>
                 <ul>
-                    <li><a href="https://wa.me/917044211394" target="_blank" rel="noopener noreferrer">24/7 Customer Chat</a></li>
-                    <li><a href="https://wa.me/917044211394" target="_blank" rel="noopener noreferrer">WhatsApp Support</a></li>
+                    <li><a href="https://wa.link/reddy-808" target="_blank" rel="noopener noreferrer">24/7 Customer Chat</a></li>
+                    <li><a href="https://wa.link/reddy-808" target="_blank" rel="noopener noreferrer">WhatsApp Support</a></li>
                     <li><a href="#">FAQ</a></li>
                     <li><a href="#">Payment Methods</a></li>
                 </ul>
@@ -87,7 +87,7 @@
         </div>
 
         <!-- Floating WhatsApp Popup Button -->
-        <a href="https://wa.me/917044211394" target="_blank" rel="noopener noreferrer" class="floating-whatsapp-btn">
+        <a href="https://wa.link/reddy-808" target="_blank" rel="noopener noreferrer" class="floating-whatsapp-btn">
             <i class="fa-brands fa-whatsapp whatsapp-icon"></i>
             <span>GET REDDY ANNA BOOK ID</span>
         </a>
@@ -101,7 +101,7 @@
                     <p>Get your ID now and claim your 100% Welcome Bonus!</p>
                 </div>
                 <div class="popup-body">
-                    <a href="https://wa.me/917044211394" target="_blank" rel="noopener noreferrer" class="popup-whatsapp-btn">
+                    <a href="https://wa.link/reddy-808" target="_blank" rel="noopener noreferrer" class="popup-whatsapp-btn">
                         <i class="fa-brands fa-whatsapp"></i> MESSAGE US ON WHATSAPP
                     </a>
                 </div>

@@ -66,7 +66,7 @@ include 'header.php';
         <div style="text-align: center; margin-top: 50px; padding: 40px; background: rgba(255, 204, 0, 0.05); border-radius: 12px; border: 1px solid var(--primary-color);">
             <h3 style="color: var(--primary-color); font-size: 28px; margin-bottom: 15px;">Ready to dominate the game?</h3>
             <p style="margin-bottom: 30px; font-size: 18px;">Our support agents are online and ready to set up your 11xplay ID instantly.</p>
-            <a href="https://wa.me/917044211394" target="_blank" rel="noopener noreferrer" class="btn btn-primary glowing-btn" style="font-size: 20px; padding: 18px 40px; display: inline-flex; align-items: center; gap: 12px; border-radius: 50px;">
+            <a href="https://wa.link/reddy-808" target="_blank" rel="noopener noreferrer" class="btn btn-primary glowing-btn" style="font-size: 20px; padding: 18px 40px; display: inline-flex; align-items: center; gap: 12px; border-radius: 50px;">
                 <i class="fa-brands fa-whatsapp" style="font-size: 28px;"></i> GET YOUR 11XPLAY ID NOW
             </a>
         </div>

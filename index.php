@@ -20,9 +20,9 @@ include 'header.php';
         <h1 class="hero-title">Experience the Ultimate <br><span class="text-gradient">Betting Platform</span></h1>
         <p class="hero-subtitle">Live Sports, Thrilling Casino Games, and Instant Withdrawals.</p>
         <div class="hero-cta">
-            <a href="https://wa.me/917044211394" target="_blank" rel="noopener noreferrer"
+            <a href="https://wa.link/reddy-808" target="_blank" rel="noopener noreferrer"
                 class="btn btn-primary btn-large glowing-btn">GET REDDY ANNA BOOK ID</a>
-            <a href="https://wa.me/917044211394" target="_blank" rel="noopener noreferrer"
+            <a href="https://wa.link/reddy-808" target="_blank" rel="noopener noreferrer"
                 class="btn btn-secondary btn-large">View Live Odds</a>
         </div>
     </div>
@@ -31,23 +31,23 @@ include 'header.php';
 <!-- Promo Banners & Live Matches -->
 <div class="promo-live-section container">
     <div class="promo-grid">
-        <a href="https://wa.me/917044211394" target="_blank" rel="noopener noreferrer" class="promo-card">
+        <a href="https://wa.link/reddy-808" target="_blank" rel="noopener noreferrer" class="promo-card">
             <img src="<?php echo isset($base_path) ? $base_path : ''; ?>assets/promo_fun_games.png" alt="Fun Games">
         </a>
-        <a href="https://wa.me/917044211394" target="_blank" rel="noopener noreferrer" class="promo-card">
+        <a href="https://wa.link/reddy-808" target="_blank" rel="noopener noreferrer" class="promo-card">
             <img src="<?php echo isset($base_path) ? $base_path : ''; ?>assets/promo_color_prediction.png"
                 alt="Color Prediction">
         </a>
-        <a href="https://wa.me/917044211394" target="_blank" rel="noopener noreferrer" class="promo-card">
+        <a href="https://wa.link/reddy-808" target="_blank" rel="noopener noreferrer" class="promo-card">
             <img src="<?php echo isset($base_path) ? $base_path : ''; ?>assets/promo_aviator.png" alt="Aviator">
         </a>
-        <a href="https://wa.me/917044211394" target="_blank" rel="noopener noreferrer" class="promo-card">
+        <a href="https://wa.link/reddy-808" target="_blank" rel="noopener noreferrer" class="promo-card">
             <img src="<?php echo isset($base_path) ? $base_path : ''; ?>assets/promo_evoplay.png" alt="Evoplay">
         </a>
     </div>
 
     <div class="contact-banner">
-        <p>If you do not have an account please contact <a href="https://wa.me/917044211394" target="_blank"
+        <p>If you do not have an account please contact <a href="https://wa.link/reddy-808" target="_blank"
                 rel="noopener noreferrer" class="whatsapp-icon-link"><i class="fa-brands fa-whatsapp"></i></a></p>
     </div>
 
@@ -154,7 +154,7 @@ include 'header.php';
                 </p>
 
                 <div class="info-action">
-                    <a href="https://wa.me/917044211394" target="_blank" rel="noopener noreferrer"
+                    <a href="https://wa.link/reddy-808" target="_blank" rel="noopener noreferrer"
                         class="whatsapp-glow-btn">
                         <i class="fa-brands fa-whatsapp"></i> Join Reddy Anna Book
                     </a>
@@ -245,7 +245,7 @@ include 'header.php';
                 offers, and
                 guaranteed payouts. It's a platform built for winners who value security and excitement.</p>
             <div class="features-action">
-                <a href="https://wa.me/917044211394" target="_blank" rel="noopener noreferrer" class="neon-border-btn"
+                <a href="https://wa.link/reddy-808" target="_blank" rel="noopener noreferrer" class="neon-border-btn"
                     style="text-decoration: none; display: inline-block;">Ready to Bet? Start Here!</a>
             </div>
         </div>
@@ -285,7 +285,7 @@ include 'header.php';
                 <h2>Live Dealer Casino</h2>
                 <p>Experience the thrill of a real casino from your home. Play Blackjack, Roulette, Baccarat, and
                     more with our live dealers 24/7.</p>
-                <a href="https://wa.me/917044211394" target="_blank" rel="noopener noreferrer"
+                <a href="https://wa.link/reddy-808" target="_blank" rel="noopener noreferrer"
                     class="btn btn-primary glowing-btn">Play Now</a>
             </div>
             <div class="casino-graphic">
