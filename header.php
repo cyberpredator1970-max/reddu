@@ -103,25 +103,32 @@ $page_url = isset($seo_url) ? $seo_url : 'https://reddyannabook.example.com';
                 <img src="<?php echo $base_path; ?>assets/logo.png" alt="REDDY ANNA BOOK Logo" class="logo-img">
             </a>
 
-            <nav class="nav-menu">
-                <ul class="nav-links">
-                    <li><a href="/" class="active"><i class="fa-solid fa-house"></i> Home</a></li>
-                    <li><a href="<?php echo $base_path; ?>blog/index.php"><i class="fa-solid fa-blog"></i> Blog</a></li>
-                    <li class="dropdown-container">
-                        <a href="#"><i class="fa-solid fa-layer-group"></i> Platforms</a>
-                        <div class="dropdown-menu">
-                            <a href="<?php echo $base_path; ?>11xplay.php">11xplay</a>
-                            <a href="<?php echo $base_path; ?>laser247.php">Laser247</a>
-                            <a href="<?php echo $base_path; ?>cricbet99.php">Cricbet99</a>
-                        </div>
-                    </li>
-                    <li><a href="https://wa.link/reddy-808" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-headset"></i> Support</a></li>
-                </ul>
-            </nav>
+            <div class="nav-wrapper">
+                <nav class="nav-menu">
+                    <ul class="nav-links">
+                        <li><a href="/" class="active"><i class="fa-solid fa-house"></i> Home</a></li>
+                        <li><a href="<?php echo $base_path; ?>blog/index.php"><i class="fa-solid fa-blog"></i> Blog</a></li>
+                        <li class="dropdown-container">
+                            <a href="#"><i class="fa-solid fa-layer-group"></i> Platforms</a>
+                            <div class="dropdown-menu">
+                                <a href="<?php echo $base_path; ?>11xplay.php">11xplay</a>
+                                <a href="<?php echo $base_path; ?>laser247.php">Laser247</a>
+                                <a href="<?php echo $base_path; ?>cricbet99.php">Cricbet99</a>
+                            </div>
+                        </li>
+                        <li><a href="https://wa.link/reddy-808" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-headset"></i> Support</a></li>
+                    </ul>
+                </nav>
 
-            <div class="auth-buttons">
-                <a href="https://wa.link/reddy-808" target="_blank" rel="noopener noreferrer" class="btn btn-secondary">Login</a>
-                <a href="https://wa.link/reddy-808" target="_blank" rel="noopener noreferrer" class="btn btn-primary glowing-btn">Signup</a>
+                <div class="auth-buttons">
+                    <a href="https://wa.link/reddy-808" target="_blank" rel="noopener noreferrer" class="btn btn-primary">Login</a>
+                    <a href="https://wa.link/reddy-808" target="_blank" rel="noopener noreferrer" class="btn btn-primary glowing-btn">Signup</a>
+                </div>
+            </div>
+
+            <div class="mobile-actions">
+                <a href="https://wa.link/reddy-808" target="_blank" rel="noopener noreferrer" class="btn btn-primary mobile-support-btn"><i class="fa-solid fa-headset"></i> Support</a>
+                <button class="mobile-menu-btn"><i class="fa-solid fa-bars"></i></button>
             </div>
         </div>
     </header>

@@ -1,9 +1,19 @@
 document.addEventListener('DOMContentLoaded', () => {
     // Mobile Menu Toggle
     const mobileMenuBtn = document.querySelector('.mobile-menu-btn');
-    if(mobileMenuBtn) {
+    const navWrapper = document.querySelector('.nav-wrapper');
+    if(mobileMenuBtn && navWrapper) {
         mobileMenuBtn.addEventListener('click', () => {
-            alert('Mobile menu toggled!');
+            navWrapper.classList.toggle('active');
+            // Toggle icon between bars and close
+            const icon = mobileMenuBtn.querySelector('i');
+            if (icon.classList.contains('fa-bars')) {
+                icon.classList.remove('fa-bars');
+                icon.classList.add('fa-xmark');
+            } else {
+                icon.classList.remove('fa-xmark');
+                icon.classList.add('fa-bars');
+            }
         });
     }
 
