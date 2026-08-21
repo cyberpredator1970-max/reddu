@@ -44,7 +44,7 @@ $page_url = isset($seo_url) ? $seo_url : 'https://reddyannabook.example.com';
     <!-- Custom CSS -->
     <link rel="stylesheet" href="<?php echo $base_path; ?>style.css?v=<?php echo time(); ?>">
     <!-- Favicon -->
-    <link rel="icon" type="image/png" href="<?php echo $base_path; ?>assets/favicon.png">
+    <link rel="icon" type="image/png" href="<?php echo $base_path; ?>assets/logo.png">
 
     <!-- Schema Markup -->
     <script type="application/ld+json">
