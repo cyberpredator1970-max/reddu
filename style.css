@@ -84,7 +84,7 @@ ul {
 }
 
 .logo-img {
-    height: 112px;
+    height: 70px;
     object-fit: contain;
 }
 
@@ -693,31 +693,42 @@ ul {
 /* Responsive */
 @media (max-width: 992px) {
     .header-container {
-        flex-wrap: wrap;
-        gap: 10px;
+        flex-wrap: nowrap;
+        gap: 5px;
         justify-content: space-between;
+        overflow-x: hidden;
+        padding-bottom: 0;
+    }
+    .logo-img {
+        height: 45px !important;
+    }
+    .logo, .nav-menu, .auth-buttons {
+        flex-shrink: 1;
     }
     .nav-menu {
-        order: 3;
-        width: 100%;
-        overflow-x: auto;
-        -webkit-overflow-scrolling: touch;
-        scrollbar-width: none; /* Firefox */
-        padding-bottom: 5px;
-    }
-    .nav-menu::-webkit-scrollbar {
-        display: none; /* Webkit */
+        order: unset;
+        width: auto;
     }
     .nav-links { 
         display: flex;
-        justify-content: center;
-        gap: 15px;
-        min-width: max-content;
-        margin: 0 auto;
+        gap: 4px;
+        min-width: unset;
+        margin: 0;
     }
     .nav-links a {
-        font-size: 14px;
-        padding: 6px 12px;
+        font-size: 11px !important;
+        padding: 4px 2px !important;
+    }
+    .nav-links a i {
+        font-size: 11px !important;
+    }
+    .auth-buttons {
+        gap: 8px !important;
+    }
+    .auth-buttons .btn {
+        padding: 3px 12px !important;
+        font-size: 10px !important;
+        line-height: 1 !important;
     }
     .mobile-menu-btn { display: none; }
     .footer-grid { grid-template-columns: 1fr; gap: 30px; }
@@ -726,7 +737,13 @@ ul {
 }
 @media (max-width: 600px) {
     .hero-cta { flex-direction: column; }
-    .auth-buttons .btn-signup { display: none; }
+    .header-container { gap: 2px !important; }
+    .logo-img { height: 35px !important; }
+    .nav-links { gap: 2px !important; }
+    .nav-links a { font-size: 9px !important; padding: 4px 2px !important; }
+    .nav-links a i { display: none !important; }
+    .auth-buttons { gap: 6px !important; }
+    .auth-buttons .btn { padding: 2px 10px !important; font-size: 8px !important; line-height: 1 !important; }
 }
 
 /* Internal Pages Styling */

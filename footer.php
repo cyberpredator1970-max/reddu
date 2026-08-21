@@ -51,8 +51,8 @@
         <div class="container footer-grid">
             <div class="footer-col brand-col">
                 <a href="/" class="logo">
-                    <img src="<?php echo isset($base_path) ? $base_path : ''; ?>assets/logo.jpeg" alt="REDDY ANNA BOOK Logo" class="logo-img">
-                    <span class="logo-text">REDDY ANNA BOOK</span>
+                    <img src="<?php echo isset($base_path) ? $base_path : ''; ?>assets/logo.png" alt="REDDY ANNA BOOK Logo" class="logo-img">
+
                 </a>
                 <p>The most trusted and secure platform for sports betting and live casino games. Play responsibly.</p>
                 <div class="social-links">
