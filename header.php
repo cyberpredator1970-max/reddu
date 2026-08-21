@@ -45,6 +45,9 @@ $page_url = isset($seo_url) ? $seo_url : 'https://reddyannabook.example.com';
     <link rel="stylesheet" href="<?php echo $base_path; ?>style.css?v=<?php echo time(); ?>">
     <!-- Favicon -->
     <link rel="icon" type="image/png" href="<?php echo $base_path; ?>assets/logo.png">
+    <link rel="apple-touch-icon" href="<?php echo $base_path; ?>assets/logo.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="<?php echo $base_path; ?>assets/logo.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="<?php echo $base_path; ?>assets/logo.png">
 
     <!-- Schema Markup -->
     <script type="application/ld+json">
