@@ -477,7 +477,7 @@ include 'header.php';
                     <h3>Top 5 Tips for IPL Betting Success</h3>
                     <p>Discover the best strategies and insights to maximize your winnings during the upcoming IPL
                         season.</p>
-                    <a href="blog/ipl-betting-tips.php" class="blog-read-more">Read More <i
+                    <a href="blog/ipl-betting-tips" class="blog-read-more">Read More <i
                             class="fa-solid fa-arrow-right"></i></a>
                 </div>
             </div>
@@ -490,7 +490,7 @@ include 'header.php';
                     <h3>Understanding Football Asian Handicap</h3>
                     <p>New to football betting? Learn how Asian Handicap works and why it offers some of the best
                         value for punters.</p>
-                    <a href="blog/football-asian-handicap.php" class="blog-read-more">Read More <i
+                    <a href="blog/football-asian-handicap" class="blog-read-more">Read More <i
                             class="fa-solid fa-arrow-right"></i></a>
                 </div>
             </div>
@@ -503,7 +503,7 @@ include 'header.php';
                     <h3>How to Win Big at Live Roulette</h3>
                     <p>Explore proven betting systems and bankroll management techniques for our Live Dealer
                         Roulette tables.</p>
-                    <a href="blog/live-roulette.php" class="blog-read-more">Read More <i
+                    <a href="blog/live-roulette" class="blog-read-more">Read More <i
                             class="fa-solid fa-arrow-right"></i></a>
                 </div>
             </div>
